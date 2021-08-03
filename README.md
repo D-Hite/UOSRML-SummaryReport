@@ -4,6 +4,9 @@ University of Oregon Solar Radiation and Monitoring Lab Summary report project. 
 DATA FOR OTHER STATIONS CAN BE FOUND AT 
 http://solardat.uoregon.edu/SelectArchivalUpdatedFormat.html
 
+END PRODUCT FOUND IN /Summary_Reports DIRECTORY
+
+
 
 Documentation for Summary_Reports.py
 
